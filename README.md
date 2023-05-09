@@ -6,4 +6,6 @@ A website made for bibliophile and other users to enhance their book selection.
 Images of product
 
 ![bookish1](https://github.com/mayankbasant/Bookishhh..../assets/71563979/823375fc-3ad6-4105-888a-643e939356f4)
-![Screenshot 2023-05-09 224434](https://github.com/mayankbasant/Bookishhh..../assets/71563979/ee65f00d-3a8f-47b1-9293-9f960e40a607)
+![bookish2](https://github.com/mayankbasant/Bookishhh..../assets/71563979/acfaa2ba-d83f-45d8-9fdf-3a4f7f0b15b0)
+![bookish3](https://github.com/mayankbasant/Bookishhh..../assets/71563979/e3de8a41-dfba-4ff5-a679-44e8af7adf46)
+
